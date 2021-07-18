@@ -1,4 +1,4 @@
-# Telegram Radio Player V2
+# Telegram Radio Playe r V2
 ![GitHub Repo stars](https://img.shields.io/github/stars/AsmSafone/RadioPlayerV2?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/AsmSafone/RadioPlayerV2?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/AsmSafone/RadioPlayerV2)
