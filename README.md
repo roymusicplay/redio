@@ -92,9 +92,3 @@ GNU Affero General Public License for more details.
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>
 ```
-## Credits
-
-- [Asm Safone](https://github.com/AsmSafone) [Dev]
-- [Dash Eclipse](https://github.com/dashezup) [Dev]
-- [Il'ya](https://github.com/MarshalX) [For tgcalls]
-- [Subin](https://github.com/subinps) [For bot support]
