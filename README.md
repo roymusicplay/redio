@@ -28,7 +28,7 @@ Radio in [Patricia📻](https://t.me/Patricia_radio) Channel & Music in [Support
 
 ## Deploy to Heroku (The Easy Way)
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/TEAM-PATRICIA/PATRICIARADIO"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-redpink?style=for-the-badge&logo=heroku" width="300""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/roymusicplay/redio"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-redpink?style=for-the-badge&logo=heroku" width="300""/></a></p>
 NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deploying!
 
 ## Heroku Vars:
