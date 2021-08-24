@@ -24,7 +24,7 @@ from pyrogram import Client, filters
 
 HOME_TEXT = "👋🏻 **Hi [{}](tg://user?id={})**,\n\nI'm **Radio Player Bot** \nI Can Play Radio/Stream Music In Channels & Groups 24x7 Nonstop. Made with ❤️ By @piroXpower!"
 HELP = """🏷️ **Need Help?** 🤔
-__(Join @patricia_robot For Support)__
+__(Join @DOSTI_GROUP_1234 For Support)__
 
 🏷️ **Common Commands**:
 \u2022 `/play` reply to an audio to play or queue it
@@ -49,7 +49,7 @@ __(Join @patricia_robot For Support)__
 \u2022 `/unmute` unmute the VC userbot
 \u2022 `/restart` restart the bot
 
-🏷️ **Developer: @piroXpower** 👑
+🏷️ **Developer: @abhinasroy** 👑
 """
 
 
@@ -57,12 +57,12 @@ __(Join @patricia_robot For Support)__
 async def start(client, message):
     buttons = [
         [
-        InlineKeyboardButton('CHANNEL🗞️', url='https://t.me/patricia_updates'),
-        InlineKeyboardButton('SUPPORT⚙️', url='https://t.me/patricia_support'),
+        InlineKeyboardButton('CHANNEL🗞️', url='https://t.me/ABOUT_ABHINAS'),
+        InlineKeyboardButton('SUPPORT⚙️', url='https://t.me/DOSTI_GROUP_1234'),
     ],
     [
-        InlineKeyboardButton('OWNER🥀', url='https://t.me/piroXpower'),
-        InlineKeyboardButton('SOURCE CODE💢', url='https://github.com/TEAM-PATRICIA/PATRICIARADIO'),
+        InlineKeyboardButton('OWNER🥀', url='https://t.me/abhinasroy'),
+        InlineKeyboardButton('BOTS💢', url='Https://t.me/abhinasroy'),
     ],
     [
         InlineKeyboardButton('⚙️ HELP ⚙️', callback_data='help'),
