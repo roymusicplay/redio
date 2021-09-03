@@ -15,7 +15,7 @@
 An Telegram Bot to Play Radio/Music in Channel or Group Voice Chats.
 
 This is also the source code of the bot which is being used for playing
-Radio in [Patricia📻](https://t.me/Patricia_radio) Channel & Music in [Support](https://t.me/patricia_support) Group.
+Radio in [Patricia📻](https://t.me/ABOUT_ABHINAS) Channel & Music in [Support](https://t.me/DOSTI_GROUP_1234) Group.
 
 ## Special Features
 
