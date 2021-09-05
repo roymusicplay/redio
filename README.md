@@ -11,6 +11,9 @@
 ![GitHub](https://img.shields.io/github/license/AsmSafone/RadioPlayerV2)
 [![Bot Support](https://img.shields.io/badge/Radio%20Player%20V2-support%20group-blue)](https://t.me/safothebot)
 
+[![𝗦𝗘𝗦𝗦𝗜𝗢𝗡](https://img.shields.io/badge/repl.it-genStr-yellowgreen)](https://repl.it/@AsmSafone/genStr)
+
+
 
 An Telegram Bot to Play Radio/Music in Channel or Group Voice Chats.
 
